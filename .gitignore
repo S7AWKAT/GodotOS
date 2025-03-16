@@ -1,2 +1,6 @@
 # Godot 4+ specific ignores
+temp_auto_push.bat
 .godot/
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
